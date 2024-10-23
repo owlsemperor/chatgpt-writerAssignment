@@ -38,4 +38,4 @@ myExtension
 3. **Response Generation**: Generates a static reply when the "Generate" button is clicked.
 4. **Insert Functionality**: Inserts the generated text into the LinkedIn message field.
 
-   https://github.com/user-attachments/assets/509adb5e-8fe5-471f-ac15-d7a94e9fda96
+https://github.com/user-attachments/assets/9fe17236-8725-4b1c-acae-81884195b60b
