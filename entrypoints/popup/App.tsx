@@ -1,8 +1,14 @@
-import React from 'react'
-const App: React.FC = () => {
+import { useState } from 'react'
+import './style.css'
+
+function App() {
+  const [count, setCount] = useState(0)
+
   return (
-    <div className='bg-blue-500 text-white p-4'>
-      <h1 className='text-3xl'>Hello, Tailwind CSS!</h1>
-    </div>
+    <>
+      <h1 className='font-bold p-20 text-2xl'>Linkedin Messagner</h1>
+    </>
   )
 }
+
+export default App
